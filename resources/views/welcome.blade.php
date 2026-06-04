@@ -98,7 +98,7 @@
             <main class="w-full">
 
                 <!-- HERO SECTION -->
-                <section id="about" class="max-w-7xl mx-auto px-6 py-20 lg:py-32 flex flex-col-reverse lg:flex-row items-center justify-between gap-16 relative">
+                <section id="about" class="max-w-7xl mx-auto px-6 pb-20 lg:pb-40 flex flex-col-reverse lg:flex-row items-center justify-between gap-16 relative" style="padding-top: 75px;">
                     <!-- Text content -->
                     <div class="flex-1 text-left space-y-6 max-w-2xl">
                         <div class="inline-flex items-center gap-2.5 px-4 py-1.5 rounded-full bg-purple-500/10 border border-purple-500/30 text-purple-300 text-xs font-semibold uppercase tracking-wider animate-pulse shadow-[0_0_15px_rgba(168,85,247,0.1)]">
@@ -337,12 +337,12 @@
                                 <h4 class="text-2xl font-bold text-white mt-2">Fungsionaris Himpunan Mahasiswa</h4>
                                 <p class="text-purple-300 font-semibold text-sm mt-1">Jurusan Teknologi Informasi</p>
                                 <p class="text-gray-400 text-sm mt-4 font-light leading-relaxed">
-                                    Sebagai anggota Bidang 2 (Minat dan Bakat), aktif mengembangkan serta memfasilitasi minat dan bakat mahasiswa Jurusan TI di bidang non-akademik, seni, olahraga, dan kreativitas guna meningkatkan iklim kekeluargaan.
+                                    Sebagai anggota Bidang 2 (Minat dan Bakat), aktif mengembangkan serta memfasilitasi minat dan bakat mahasiswa Jurusan TI di bidang akademik, non-akademik, seni, olahraga, dan kreativitas guna meningkatkan iklim kekeluargaan.
                                 </p>
                             </div>
                             <div class="mt-8 pt-4 border-t border-white/5 flex items-center justify-between text-xs text-gray-500">
                                 <span>Bidang: Minat & Bakat</span>
-                                <span class="text-purple-400 font-mono-tech">Fungsionaris</span>
+                                <span class="text-purple-400 font-mono-tech">Period: 2025</span>
                             </div>
                         </div>
 
@@ -362,7 +362,7 @@
                             </div>
                             <div class="mt-8 pt-4 border-t border-white/5 flex items-center justify-between text-xs text-gray-500">
                                 <span>Jabatan: Koordinator Seksi Hubungan Masyarakat</span>
-                                <span class="text-blue-400 font-mono-tech">Period: #17</span>
+                                <span class="text-blue-400 font-mono-tech">Tahun: 2025</span>
                             </div>
                         </div>
 
@@ -381,7 +381,7 @@
                                 </p>
                             </div>
                             <div class="mt-8 pt-4 border-t border-white/5 flex items-center justify-between text-xs text-gray-500">
-                                <span>Jabatan: Sekretaris Utama</span>
+                                <span>Jabatan: Sekretaris Inti</span>
                                 <span class="text-purple-400 font-mono-tech">Tahun: 2025</span>
                             </div>
                         </div>
@@ -493,7 +493,7 @@
                     <div class="text-center max-w-3xl mx-auto mb-16">
                         <h2 class="text-xs font-bold tracking-widest text-purple-400 uppercase mb-2">Hubungi</h2>
                         <h3 class="text-3xl sm:text-4xl font-extrabold text-white">Mari Bekerja Sama</h3>
-                        <p class="text-gray-400 mt-4 font-light">Punya tawaran proyek atau ingin berdiskusi? Silakan hubungi saya secara langsung melalui kontak di bawah ini.</p>
+                        <p class="text-gray-400 mt-4 font-light">Tertarik untuk berkolaborasi atau ingin berdiskusi? Silakan hubungi saya melalui kontak di bawah ini.</p>
                     </div>
 
                     <!-- Centered Contact Cards Grid (3 Columns) -->
